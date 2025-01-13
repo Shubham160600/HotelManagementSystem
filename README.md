@@ -49,25 +49,14 @@ Hotel Management System (HMS) developed for managing hotels or guest house writt
 ## Developed by
 
 <p>
-    Sukhada Takle
+    Shubham Saurabh
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/sukhada-takle-307b2919a/">
-      <img src="https://img.shields.io/badge/SukhadaTakle%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shubham-saurabh-88b439197/"> 
+      <img src="https://img.shields.io/badge/Shubham Saurabh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sukhada_03/">
-      <img src="https://img.shields.io/badge/sukhada_03%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/shubhamsaurabh50/"> 
+      <img src="https://img.shields.io/badge/shubhamsaurabh50%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>                             
 </p>
 
-<p>
-    Sudhanshu Motewar
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/sudhanshu-motewar/">
-      <img src="https://img.shields.io/badge/SudhanshuMotewar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sudhanshu.motewar/">
-      <img src="https://img.shields.io/badge/sudhanshu.motewar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>                             
-</p>
